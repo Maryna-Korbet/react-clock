@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-clock/static/css/main.7acaea2f.css",
-    "main.js": "/react-clock/static/js/main.07d3183d.js",
+    "main.js": "/react-clock/static/js/main.f3ed0935.js",
     "index.html": "/react-clock/index.html",
     "main.7acaea2f.css.map": "/react-clock/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/react-clock/static/js/main.07d3183d.js.map"
+    "main.f3ed0935.js.map": "/react-clock/static/js/main.f3ed0935.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/js/main.f3ed0935.js"
   ]
 }
